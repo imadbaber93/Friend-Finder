@@ -6,8 +6,8 @@
 
 var friends = [
   {
-    name: "Ahmed",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+    name: "SpongeBob SquarePants",
+    photo: "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/1200px-Spongebob-squarepants.svg.png",
     scores: [
       "5",
       "1",
@@ -22,8 +22,8 @@ var friends = [
     ]
   },
   {
-    name: "Jacob Deming",
-    photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    name: "Squidward Tentacles",
+    photo: "https://upload.wikimedia.org/wikipedia/en/a/ac/Squidward.png",
     scores: [
       "4",
       "2",
@@ -38,8 +38,8 @@ var friends = [
     ]
   },
   {
-    name: "Jeremiah Scanlon",
-    photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+    name: "Mr Krabs",
+    photo: "https://vignette.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
     scores: [
       "5",
       "2",
@@ -54,8 +54,8 @@ var friends = [
     ]
   },
   {
-    name: "Louis T. Delia",
-    photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+    name: "Plankton",
+    photo: "https://vignette.wikia.nocookie.net/nickelodeon/images/d/d3/Plankton_by_wombat7500-d417kmu.png/revision/latest?cb=20160918215953",
     scores: [
       "3",
       "3",
@@ -70,8 +70,8 @@ var friends = [
     ]
   },
   {
-    name: "Lou Ritter",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+    name: "Patrick Star",
+    photo: "https://static.esea.net/global/images/users/1559972.1486072809.png",
     scores: [
       "4",
       "3",
@@ -86,8 +86,8 @@ var friends = [
     ]
   },
   {
-    name: "Jordan Biason",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+    name: "Gary",
+    photo: "https://vignette.wikia.nocookie.net/spongebob/images/4/41/Gary_Movie.png/revision/latest?cb=20150603022800",
     scores: [
       "4",
       "4",
